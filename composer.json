@@ -1,5 +1,5 @@
 {
-    "name": "misantron/dbunit",
+    "name": "devsoftmus/dbunit",
     "description": "DbUnit fork supporting PHPUnit 9/10",
     "type": "library",
     "license": "MIT",
