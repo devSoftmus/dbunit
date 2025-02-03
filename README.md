@@ -13,5 +13,5 @@
 If you use [Composer](https://getcomposer.org/) to manage the dependencies of your project then you can add DbUnit as a development-time dependency to your project:
 
 ```
-$ composer require --dev devsoftmus/dbunit
+$ composer config repositories.dbunit git https://github.com/devsoftmus/dbunit && composer require --dev devsoftmus/dbunit:dev-master
 ```
